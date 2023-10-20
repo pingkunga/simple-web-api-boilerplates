@@ -2,12 +2,12 @@
 
 ## Compile to executable file
 ```
-cargo build --release
+go build
 ```
 
 ## Executable file output to 
 ```
-target/release/<name>
+<current-directory>/<name>
 ```
 
 ## how to run

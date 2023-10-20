@@ -1,16 +1,16 @@
-# Simple web application with golang
+# Simple web application with dotnet core C#
 
 ## Compile to executable file
 ```
-cargo build --release
+dotnet build
 ```
 
 ## Executable file output to 
 ```
-target/release/<name>
+bin/<name>.dll 
 ```
 
 ## how to run
 ```
-./<name>
+dot <name>.dll
 ```
