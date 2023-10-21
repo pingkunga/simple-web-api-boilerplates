@@ -1,8 +1,8 @@
 {
     "value": {
-        "analysisFile": "/Users/creampxx/Downloads/minimalApplication-0.9.1/out/app/compile.dest/zinc",
-        "classes": "ref:b1d46123:/Users/creampxx/Downloads/minimalApplication-0.9.1/out/app/compile.dest/classes"
+        "analysisFile": "/Users/creampxx/workspace-for-me/tools/web-api/simple-web-api-boilerplates/scala/out/app/compile.dest/zinc",
+        "classes": "ref:5fef45f1:/Users/creampxx/workspace-for-me/tools/web-api/simple-web-api-boilerplates/scala/out/app/compile.dest/classes"
     },
-    "valueHash": -861267075,
-    "inputsHash": 675570414
+    "valueHash": -1185805404,
+    "inputsHash": 1425453952
 }

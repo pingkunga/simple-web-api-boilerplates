@@ -1,6 +1,6 @@
 {
     "value": [
-        "ref:c984eca8:/Users/creampxx/Downloads/minimalApplication-0.9.1/app/resources",
+        "ref:c984eca8:/Users/creampxx/workspace-for-me/tools/web-api/simple-web-api-boilerplates/scala/app/resources",
         "qref:77420f9c:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/cask_2.13/0.9.1/cask_2.13-0.9.1.jar",
         "qref:cb19cacd:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar",
         "qref:58b12816:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/undertow/undertow-core/2.2.20.Final/undertow-core-2.2.20.Final.jar",
@@ -26,5 +26,5 @@
         "qref:0cc1d0a8:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar"
     ],
     "valueHash": -990804138,
-    "inputsHash": -333177757
+    "inputsHash": 2045188576
 }

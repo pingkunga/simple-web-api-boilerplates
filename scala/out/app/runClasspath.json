@@ -1,7 +1,7 @@
 {
     "value": [
-        "ref:c984eca8:/Users/creampxx/Downloads/minimalApplication-0.9.1/app/resources",
-        "ref:b1d46123:/Users/creampxx/Downloads/minimalApplication-0.9.1/out/app/compile.dest/classes",
+        "ref:c984eca8:/Users/creampxx/workspace-for-me/tools/web-api/simple-web-api-boilerplates/scala/app/resources",
+        "ref:5fef45f1:/Users/creampxx/workspace-for-me/tools/web-api/simple-web-api-boilerplates/scala/out/app/compile.dest/classes",
         "qref:77420f9c:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/cask_2.13/0.9.1/cask_2.13-0.9.1.jar",
         "qref:cb19cacd:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar",
         "qref:58b12816:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/undertow/undertow-core/2.2.20.Final/undertow-core-2.2.20.Final.jar",
@@ -26,6 +26,6 @@
         "qref:193dda9f:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_2.13/0.4.0/fansi_2.13-0.4.0.jar",
         "qref:0cc1d0a8:/Users/creampxx/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar"
     ],
-    "valueHash": -725835634,
-    "inputsHash": 1944742737
+    "valueHash": 1327656511,
+    "inputsHash": -1961409790
 }
