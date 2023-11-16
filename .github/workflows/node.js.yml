@@ -23,6 +23,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: pwd 0
+      run: pwd
     - name: cd 
       run: cd javascript
     - name: pwd 
