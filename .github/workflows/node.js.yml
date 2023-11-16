@@ -33,6 +33,7 @@ jobs:
         cache-dependency-path: javascript/package.json
     - name: run npm commands
       run: | 
+        \rm -r node_modules
         pwd
         npm ci
         npm run build --if-present
