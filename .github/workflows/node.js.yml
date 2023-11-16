@@ -30,7 +30,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-        cache-dependency-path: javascript/package.json
+        cache-dependency-path: javascript/package-lock.json
     - name: run npm commands
       run: | 
         pwd
