@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: 'javascript' # Here the path to the folder where package-lock.json is located.
+        working-directory: ./javascript # Here the path to the folder where package-lock.json is located.
     strategy:
       matrix:
         node-version: [14.x, 16.x, 18.x]
@@ -29,7 +29,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - name: run npm commands
-      working-directory: javascript
       run: | 
         npm ci
         npm run build --if-present
